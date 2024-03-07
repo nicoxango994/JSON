@@ -1,32 +1,32 @@
 [
-  {
-    "id": 1,
-    "title": "Noticia 1",
-    "text": "Descripción de la noticia 1",
-    "image": "https://via.placeholder.com/300"
-  },
-  {
-    "id": 2,
-    "title": "Noticia 2",
-    "text": "Descripción de la noticia 2",
-    "image": "https://via.placeholder.com/300"
-  },
-  {
-    "id": 3,
-    "title": "Noticia 3",
-    "text": "Descripción de la noticia 3",
-    "image": "https://via.placeholder.com/300"
-  },
-  {
-    "id": 4,
-    "title": "Noticia 4",
-    "text": "Descripción de la noticia 4",
-    "image": "https://via.placeholder.com/300"
-  },
-  {
-    "id": 5,
-    "title": "Noticia 5",
-    "text": "Descripción de la noticia 5",
-    "image": "https://via.placeholder.com/300"
-  }
+   {
+      "id":1,
+      "title":"Noticia 1",
+      "text":"Descripción de la noticia 1",
+      "image":"https://via.placeholder.com/300"
+   },
+   {
+      "id":2,
+      "title":"Noticia 2",
+      "text":"Descripción de la noticia 2",
+      "image":"https://via.placeholder.com/300"
+   },
+   {
+      "id":3,
+      "title":"Noticia 3",
+      "text":"Descripción de la noticia 3",
+      "image":"https://via.placeholder.com/300"
+   },
+   {
+      "id":4,
+      "title":"Noticia 4",
+      "text":"Descripción de la noticia 4",
+      "image":"https://via.placeholder.com/300"
+   },
+   {
+      "id":5,
+      "title":"Noticia 5",
+      "text":"Descripción de la noticia 5",
+      "image":"https://via.placeholder.com/300"
+   }
 ]
